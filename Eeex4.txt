@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://egorikusa.space/4febe227fb8d3d57393e87b5.lua", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ichessfleischv2/Ego-Hub/main/Eeex4.txt'))()
